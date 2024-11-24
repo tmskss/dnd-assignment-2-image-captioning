@@ -1,0 +1,10 @@
+torch
+torchvision
+torchsummary
+torchaudio
+torchtext
+kaggle
+nltk
+pandas
+pillow
+matplotlib
